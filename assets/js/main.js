@@ -21,7 +21,7 @@ function createFloatingHearts() {
 // ============================================
 function updateCountdown() {
     // CUSTOMIZE THIS: Set your relationship start date
-    const startDate = new Date('2025-09-15T00:00:00'); // Change this to your actual date!
+    const startDate = new Date('2025-09-27T00:22:00'); // Change this to your actual date!
     const now = new Date();
     const diff = now - startDate;
 
